@@ -1,4 +1,6 @@
-﻿namespace Cars_lab
+﻿using System.Linq.Expressions;
+
+namespace Cars_lab
 {
     internal class Program
     {
@@ -39,8 +41,18 @@
                 int input = int.Parse(Console.ReadLine());
                 Console.WriteLine();
 
-                Console.WriteLine($"You purchased our {carsInventory[input - 1].Year} {carsInventory[input - 1].Make} " +
-                   $"{carsInventory[input - 1].Model} for {carsInventory[input - 1].Price}.");
+                if (input <= 6)
+                {
+                    continue;
+                }
+                else
+                {
+                    Console.WriteLine("We don't have that");
+                    break;
+                }
+
+                Console.WriteLine($"You purchased our {carsInventory[input].Year} {carsInventory[input].Make} " +
+                   $"{carsInventory[input].Model} for {carsInventory[input].Price}.");
 
                 carsInventory.RemoveAt(input - 1);
 
