@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alhas\\source\\repos\\Cars lab\\Cars lab\\Cars lab.csproj": {}
+    "C:\\Users\\alhas\\Desktop\\merge practice\\Cars-Lab\\Cars lab\\Cars lab\\Cars lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alhas\\source\\repos\\Cars lab\\Cars lab\\Cars lab.csproj": {
+    "C:\\Users\\alhas\\Desktop\\merge practice\\Cars-Lab\\Cars lab\\Cars lab\\Cars lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alhas\\source\\repos\\Cars lab\\Cars lab\\Cars lab.csproj",
+        "projectUniqueName": "C:\\Users\\alhas\\Desktop\\merge practice\\Cars-Lab\\Cars lab\\Cars lab\\Cars lab.csproj",
         "projectName": "Cars lab",
-        "projectPath": "C:\\Users\\alhas\\source\\repos\\Cars lab\\Cars lab\\Cars lab.csproj",
+        "projectPath": "C:\\Users\\alhas\\Desktop\\merge practice\\Cars-Lab\\Cars lab\\Cars lab\\Cars lab.csproj",
         "packagesPath": "C:\\Users\\alhas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alhas\\source\\repos\\Cars lab\\Cars lab\\obj\\",
+        "outputPath": "C:\\Users\\alhas\\Desktop\\merge practice\\Cars-Lab\\Cars lab\\Cars lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alhas\\AppData\\Roaming\\NuGet\\NuGet.Config",
